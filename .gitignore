@@ -1,0 +1,12 @@
+# Ignore IDE files.
+.project
+.cproject
+.settings
+
+# Ignore build files.
+bin/*
+src/*.o
+src/*.dep
+
+# Ignore documentation.
+doc/html
