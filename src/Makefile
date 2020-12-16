@@ -9,7 +9,7 @@ CC_OPTS_SO = -fpic -O2 -DNDEBUG -Wall -Wextra -Werror
 LD = g++
 LD_OPTS_SO = -fpic -shared -ldl
 
-BIN = ../bin
+BIN = ../
 
 # Targets
 
